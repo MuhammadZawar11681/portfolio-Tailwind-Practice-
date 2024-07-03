@@ -21,5 +21,5 @@ Run the CLI tool to scan your template files for classes and build your CSS.
 
 - **Deploy to Netlify**
 
-[![netlify]()]()
+[![netlify]()](https://singular-lokum-744ce8.netlify.app/)
 
